@@ -91,23 +91,23 @@ Survival and covert entry skills including lock bypass concepts.
 
 ## 🎥 YouTube Channels
 
-- :contentReference[oaicite:0]{index=0}  
+- **LockPickingLawyer**  
   https://www.youtube.com/@lockpickinglawyer  
 
-- :contentReference[oaicite:1]{index=1}  
+- **BosnianBill**  
   https://www.youtube.com/@bosnianbill  
 
-- :contentReference[oaicite:2]{index=2}  
+- **The Sandman**  
   https://www.youtube.com/@TheSandman  
 
-- :contentReference[oaicite:3]{index=3}  
+- **Lock Noob**  
   https://www.youtube.com/@LockNoob  
 
-- :contentReference[oaicite:4]{index=4}  
+- **HelpfulLockPicker**  
   https://www.youtube.com/@HelpfulLockPicker  
 
-- :contentReference[oaicite:5]{index=5}  
-  https://m.youtube.com/@picklocks  
+- **Pick Locks Dot Com**  
+  https://m.youtube.com/@picklocks    
 
 ---
 
