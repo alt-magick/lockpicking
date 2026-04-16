@@ -1,6 +1,8 @@
 
 # 🔐 Lockpicking Books & Resources
 
+https://www.shellcrash.com
+
 A complete resource hub for learning lockpicking, locksmithing, and security concepts — from beginner fundamentals to advanced techniques.
 
 > Educational resources on lock mechanisms, tools, locksport techniques, and more.
