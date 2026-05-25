@@ -25,6 +25,10 @@ Illustration-focused guide with diagrams and step-by-step visuals.
 Focuses on physics and mechanics behind lock picking and pin binding.  
 👉 https://www.amazon.com/Guide-Lock-Picking-Theodore-Tool/dp/B009ANC05G/
 
+***Locksport - Jos Weyers***
+A comprehensive, hands-on guide to locksport.
+👉 https://www.amazon.com/Locksport-Hackers-Picking-Impressioning-Cracking/dp/1718502249/
+
 ---
 
 ### 🟡 Intermediate Lockpicking Books
@@ -32,6 +36,14 @@ Focuses on physics and mechanics behind lock picking and pin binding.
 **The Complete Guide to Lock Picking — Eddie the Wire**  
 Covers pin tumbler, wafer, and disc detainer locks plus tension techniques.  
 👉 https://www.amazon.com/Complete-Guide-Lock-Picking/dp/1581605080/
+
+***Practical Lock Picking - Deviant Ollam**"
+A highly visual training guide showing the mechanics of lock picking and bypass tactics
+👉 https://www.amazon.com/Practical-Lock-Picking-Physical-Penetration/dp/1597499897/
+
+***Keys to the Kingdom - Deviant Ollam***
+A deep dive into lock impressioning and key duplication.
+👉 https://www.amazon.com/Keys-Kingdom-Impressioning-Privilege-Escalation/dp/1597499838
 
 ---
 
@@ -84,6 +96,10 @@ Covert entry techniques using minimal tools.
 **How to Open Locks With Improvised Tools — Hans Conkel**  
 Opening locks using everyday objects and simple techniques.  
 👉 https://www.amazon.com/Open-Locks-Improvised-Tools-non-destructive-ebook/dp/0966608712/
+
+***Improvised Lock Picking - Steven M. Hampton**"
+A practical guide to creating and using improvised lock-picking tools
+👉 https://www.amazon.com/gp/product/1581603967/
 
 **100 Deadly Skills — Clint Emerson**  
 Survival and covert entry skills including lock bypass concepts.  
