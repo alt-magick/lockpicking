@@ -14,18 +14,22 @@ A complete resource hub for learning lockpicking, locksmithing, and security con
 ### 🟢 Beginner Lockpicking Books
 
 **Easy Pickings — Rita Phillips & Bill Phillips**  
+
 Explains basic lock mechanisms, tension control, and basic picking techniques.  
 👉 https://www.amazon.com/gp/product/B001TJWH9I  
 
 **Visual Guide to Lock Picking — Mark McCloud**  
+
 Illustration-focused guide with diagrams and step-by-step visuals.  
 👉 https://www.amazon.com/Visual-Guide-Lock-Picking-McCloud/dp/0970978863  
 
 **MIT Guide to Lock Picking — Theodore T. Tool**  
+
 Focuses on physics and mechanics behind lock picking and pin binding.  
 👉 https://www.amazon.com/Guide-Lock-Picking-Theodore-Tool/dp/B009ANC05G/
 
 ***Locksport - Jos Weyers***
+
 A comprehensive, hands-on guide to locksport.
 👉 https://www.amazon.com/Locksport-Hackers-Picking-Impressioning-Cracking/dp/1718502249/
 
@@ -34,14 +38,17 @@ A comprehensive, hands-on guide to locksport.
 ### 🟡 Intermediate Lockpicking Books
 
 **The Complete Guide to Lock Picking — Eddie the Wire**  
+
 Covers pin tumbler, wafer, and disc detainer locks plus tension techniques.  
 👉 https://www.amazon.com/Complete-Guide-Lock-Picking/dp/1581605080/
 
 ***Practical Lock Picking - Deviant Ollam***
+
 A highly visual training guide showing the mechanics of lock picking and bypass tactics
 👉 https://www.amazon.com/Practical-Lock-Picking-Physical-Penetration/dp/1597499897/
 
 ***Keys to the Kingdom - Deviant Ollam***
+
 A deep dive into lock impressioning and key duplication.
 👉 https://www.amazon.com/Keys-Kingdom-Impressioning-Privilege-Escalation/dp/1597499838
 
@@ -49,15 +56,18 @@ A deep dive into lock impressioning and key duplication.
 
 ### 🔴 Advanced Lockpicking Books
 
-**Advanced Lockpicking Secrets — Steven M. Hampton**  
+**Advanced Lockpicking Secrets — Steven M. Hampton** 
+
 Advanced manipulation techniques and specialized lock designs.  
 👉 https://www.amazon.com/Advanced-Picking-Secrets-Steven-Hampton/dp/0873645154/
 
 **Secrets of Lockpicking — Steven M. Hampton**  
+
 Practical techniques, binding order, and real-world lock analysis.  
 👉 https://www.amazon.com/Secrets-Lock-Picking-Steven-Hampton/dp/0873644239/
 
-**Police Guide to Lock Picking**  
+**Police Guide to Lock Picking** 
+
 Non-destructive entry techniques for investigative use.  
 👉 https://www.amazon.com/Improvised-Lock-Picks-Formerly-PICKING/dp/1940849616/
 
@@ -66,14 +76,17 @@ Non-destructive entry techniques for investigative use.
 ### 🧰 Locksmith Training Books
 
 **Locksmithing, Second Edition — Bill Phillips**  
+
 Key cutting, installation, master key systems, and lock servicing.  
 👉 https://www.amazon.com/Locksmithing-Second-Bill-Phillips/dp/0071622756/
 
 **Master Locksmithing — Bill Phillips**  
+
 Covers mechanical locks, safes, electronic locks, and professional tools.  
 👉 https://www.amazon.com/Master-Locksmithing-Experts-Intruder-High-Security/dp/0071487514/
 
-**The Complete Book of Locks and Locksmithing**  
+**The Complete Book of Locks and Locksmithing** 
+
 Overview of lock technologies, repair, and locksmith techniques.  
 👉 https://www.amazon.com/Master-Locksmithing-Experts-Intruder-High-Security/dp/0071487514/
 
@@ -82,6 +95,7 @@ Overview of lock technologies, repair, and locksmith techniques.
 ### 🛡️ Security & High-Security Locks
 
 **Modern High Security Locks — Graham W. Pulford**  
+
 Engineering of high-security locks and restricted keyways.  
 👉 https://www.amazon.com/Modern-High-security-Locks-Open-Them/dp/1581602952/
 
@@ -90,18 +104,22 @@ Engineering of high-security locks and restricted keyways.
 ### 🕵️ Specialized Guides
 
 **CIA Lockpicking Field Guide**  
+
 Covert entry techniques using minimal tools.  
 👉 https://www.amazon.com/CIA-Lockpicking-Manual-Luc-Boudreaux/dp/B0DYYGMLZH/
 
 **How to Open Locks With Improvised Tools — Hans Conkel**  
+
 Opening locks using everyday objects and simple techniques.  
 👉 https://www.amazon.com/Open-Locks-Improvised-Tools-non-destructive-ebook/dp/0966608712/
 
 ***Improvised Lock Picking - Steven M. Hampton***
+
 A practical guide to creating and using improvised lock-picking tools
 👉 https://www.amazon.com/gp/product/1581603967/
 
 **100 Deadly Skills — Clint Emerson**  
+
 Survival and covert entry skills including lock bypass concepts.  
 👉 https://www.amazon.com/100-Deadly-Skills-Operatives-Surviving/dp/147679605X/
 
